@@ -97,6 +97,7 @@ It's interesting to me how much of their app they could use between their websit
 There's the social stuff that's tied to just your singular Playstation account, your singular Nintendo World account, and then your Xbox live account, and I agree with you, there's definitely a missed thing there. But I also think that so many people don't understand exactly how data and privacy works, so they're a little more apprehensive about freely sharing that kind of stuff.
 
 I don't even care, so everyone get on my data, as long as I can play video games with my friends.
+I don't even care, so everyone get on my data, as long as I can play video games with my friends.
 
 **Mikeal Rogers:** I think they're missing a huge opportunity here though... I don't know about your Facebook, but mine is mostly dominated by my extended family, who are right-wing lunatics, and I would love it when there's some kind of political argument to just say "You know what, let's just take this to the first-person shooter."
 
