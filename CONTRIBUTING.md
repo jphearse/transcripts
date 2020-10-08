@@ -4,8 +4,8 @@ Thanks for wanting to help out!! These pointers below _should_ help you fall int
 
 - Replacing the keyword 'unintelligible' with the correct word/phrase ([list of unintelligibles](https://github.com/thechangelog/transcripts/search?utf8=✓&q=unintelligible))
 - Adding links to referenced URLs, projects, etc.
-- Adding timestamps to key/beloved statements and sections
-- Fixing typos
+- Adding timestamps to key/beloved statements and sections.
+- Fixing typos.
 
 ### Contributions we DON'T love 🚫
 
