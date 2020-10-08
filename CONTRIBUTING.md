@@ -1,4 +1,4 @@
-Thanks for wanting to help out! These pointers below _should_ help you fall into the pit of success 👇
+Thanks for wanting to help out!! These pointers below _should_ help you fall into the pit of success 👇
 
 ### Contributions we love 💚
 
